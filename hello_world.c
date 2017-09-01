@@ -1,6 +1,7 @@
+// My first c program.
 #include <stdio.h>
 int main()
 {
-	printf("Hello, Honey\n");
+	printf("Hello, World\n"); // Display Hello, World! on the screen.
 	return 0;
 }
